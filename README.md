@@ -32,10 +32,10 @@
 | STT | Họ tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- |
 | 1 | Nguyễn Văn Tài | 19520250 | *19520250@gm.uit.edu.vn* | [nguyenvantai](https://github.com/nguyenvantai102) |
-| 2 | 
+| 2 | Trần Xuân Nhơn | 18521212 | *18521212@gm.uit.edu.vn* | https://github.com/18521212
 | 3 | 
 
 ## ĐỒ ÁN CUỐI KỲ
-* **Tên đồ án:** SỐ HÓA TỦ SÁCH
+* **Tên đồ án:** 
 
 <!-- Footer -->
