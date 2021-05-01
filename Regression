@@ -1,12 +1,9 @@
-<!-- Title -->
-<h1 align="center"><b>CS114.L21 - MÁY HỌC - MACHINE LEARNING</b></h1>
-<h1 align="center"><b>BÀI TẬP QUÁ TRÌNH NGÀY 26/04/2021</b></h1>
 
-## ĐỀ BÀI:
+# ĐỀ BÀI:
 - Mỗi nhóm tìm dăm ba ví dụ về bài toán regression ***TRONG THỰC TẾ***
 - Ghi rõ input, output và cách thu thập + xử lý data, commit vào github repository và dẫn link lên Google Classroom.
 
-### Thành viên:
+## Thành viên:
 - Nguyễn Văn Tài - 19520250 - 19520250@gm.uit.edu.vn
 - Trần Xuân Nhơn - 18521212 - 18521212@gm.uit.edu.vn
 
