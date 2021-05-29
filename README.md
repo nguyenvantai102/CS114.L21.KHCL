@@ -33,7 +33,7 @@
 | :---: | --- | --- | --- | --- |
 | 1 | Nguyễn Văn Tài | 19520250 | *19520250@gm.uit.edu.vn* | [nguyenvantai](https://github.com/nguyenvantai102) |
 | 2 | Trần Xuân Nhơn | 18521212 | *18521212@gm.uit.edu.vn* | https://github.com/18521212
-| 3 | 
+| 3 | Nguyễn Ngọc Trưởng | 19522440 | *19522440@gm.uit.edu.vn* | https://github.com/nguyenngoctruong2k1
 
 ## ĐỒ ÁN CUỐI KỲ
 * **Tên đồ án:** 
