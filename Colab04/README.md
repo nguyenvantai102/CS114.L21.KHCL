@@ -10,7 +10,7 @@
 | 2 | Trần Xuân Nhơn | 18521212 | *18521212@gm.uit.edu.vn* | [18521212](https://github.com/18521212)|CS114.L21.KHCL|
 | 3 | Nguyễn Ngọc Trưởng | 19522440 | *19522440@gm.uit.edu.vn* |[nguyenngoctruong2k1](https://github.com/nguyenngoctruong)|CS114.L22.KHCL|
 
-# Các trang web thu thập
+# Báo cáo kết quả quá trình thu thập dữ liệu
 ## A. Trang báo châm biếm
 ### 1. The Onion (https://www.theonion.com)
 * Số lượng dữ liệu: 8539 dòng
