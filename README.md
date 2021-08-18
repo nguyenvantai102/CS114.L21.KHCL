@@ -35,7 +35,6 @@
 | 2 | Trần Xuân Nhơn | 18521212 | *18521212@gm.uit.edu.vn* | [18521212](https://github.com/18521212)|CS114.L21.KHCL|
 | 3 | Nguyễn Ngọc Trưởng | 19522440 | *19522440@gm.uit.edu.vn* |[nguyenngoctruong2k1](https://github.com/nguyenngoctruong)|CS114.L22.KHCL|
 
-## ĐỒ ÁN CUỐI KỲ
-* **Tên đồ án:** 
+## [ĐỒ ÁN CUỐI KỲ](https://github.com/nguyenvantai102/CS114.L21.KHCL/tree/main/FinalProject)
 
 <!-- Footer -->
