@@ -13,3 +13,4 @@ Với những góp ý từ thầy An trong buổi báo cáo, nhóm đã tiến h
 ## 3. Các file báo cáo
 - [File Colab](https://github.com/nguyenvantai102/CS114.L21.KHCL/blob/main/FinalProject/FinalProject_(B%E1%BA%A3n_%C4%91%E1%BA%A7y_%C4%91%E1%BB%A7).ipynb)
 - [Source Code demo](https://github.com/nguyenvantai102/CS114.L21.KHCL/blob/main/FinalProject/DemoApplication.py)
+- [Tập dữ liệu](https://github.com/nguyenvantai102/CS114.L21.KHCL/tree/main/FinalProject/Dataset)
