@@ -10,3 +10,6 @@
 Với những góp ý từ thầy An trong buổi báo cáo, nhóm đã tiến hành những cập nhật cho bài báo cáo như sau:
 - Tìm kiếm các bài báo nghiên cứu của Việt Nam về lĩnh vực đề tài của nhóm với bộ dữ liệu ở thành phố Hồ Chí Minh.
 - Thêm những ví dụ hình ảnh cụ thể để giải thích các vấn đề
+## 3. Các file báo cáo
+- [File Colab](https://github.com/nguyenvantai102/CS114.L21.KHCL/blob/main/FinalProject/FinalProject_(B%E1%BA%A3n_%C4%91%E1%BA%A7y_%C4%91%E1%BB%A7).ipynb)
+- [Source Code demo](https://github.com/nguyenvantai102/CS114.L21.KHCL/blob/main/FinalProject/DemoApplication.py)
